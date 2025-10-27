@@ -6,7 +6,7 @@ def ler_nota(mensagem):
             if nota >= 0 and nota <= 10: 
                 return nota
             else:
-                print('Nota inválida!')
+                print('A Nota deve estar entre 0 e 10!')
                 
         except ValueError:
             print('Nota inválida!')

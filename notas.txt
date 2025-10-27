@@ -1,0 +1,1 @@
+Wellynton,8.0,8.0,8.0;teste,8.9999999,8.0,8.0;Aluno de exame,5.0,5.0,5.0;Aluno reprovado,3.0,3.0,3.0;
